@@ -75,6 +75,7 @@ export default class Chart extends React.Component {
             )
         }];
 
+        // 写的不错
         // 设置行选择
         const rowSelection = {
           onChange: (selectedRowKeys, selectedRows) => {
