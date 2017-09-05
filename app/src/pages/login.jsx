@@ -39,7 +39,7 @@ class LoginPage extends React.Component {
             duration: 6
         })
     }
-
+  // 很不错的代码
     componentDidMount() {
         this.openNotificationWithIcon('info');  
     }
